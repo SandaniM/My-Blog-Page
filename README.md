@@ -1,2 +1,2 @@
 # My-Blog-Page
-This is a web page which contains my blogs 😊
+This web page is about to laugh by me
